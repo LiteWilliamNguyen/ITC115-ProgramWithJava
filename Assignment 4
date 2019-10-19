@@ -4,12 +4,15 @@ times. For example, the call repl("hello", 3) should return
 "hellohellohello". If the number of repetitions is zero or less, the
 method should return an empty string. */
 
-public class Assisngment4 {
+public class Assignment4 {
   public static void main(String[] args) {
   
   }
   
-  publlic static void {
-  
+  publlic static void repl{string, int count)
+  for (int i = 1; i <= count; i++) {
+  System.out.print(string);
+  }
+  System.out.println();
   }
 }
