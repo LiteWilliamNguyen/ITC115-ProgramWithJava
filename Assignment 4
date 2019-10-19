@@ -1,3 +1,11 @@
+//*******************************************************************
+//
+// Loop of repetition
+//
+// By using a loop to repeat the number of letter, and then print out the line out
+// By: Khanh Trinh Nguyen
+// Date: 10/15/2019 
+
 /*Write a method called repl that accepts a String and a number of
 repetitions as parameters and returns the String concatenated that many
 times. For example, the call repl("hello", 3) should return
