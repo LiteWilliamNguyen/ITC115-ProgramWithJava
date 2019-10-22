@@ -14,7 +14,7 @@ method should return an empty string. */
 
 public class Assignment4 {
   public static void main(String[] args) {
-  
+  repl("hello",3);
   }
   
   publlic static void repl{string, int count)
