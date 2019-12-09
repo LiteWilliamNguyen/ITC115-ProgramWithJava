@@ -1,0 +1,20 @@
+
+public class Assignment9Main {
+
+	public static void main(String[] args) {
+		// display a welcome message
+	Assignment9 newspaper = new Assignment9("New York Times", 3.00, 5);
+	Assignment9 dvd = new Assignment9("Frozen 2", 10.99 , 10);
+	Assignment9 book = new Assignment9("Percy Jackson", 10.99, 5);
+
+	System.out.println(newspaper.toString());
+	System.out.println(newspaper.getPriceFormatted());
+	
+	System.out.println(dvd);
+	System.out.println(dvd.getPriceFormatted());
+	
+	System.out.println(book);
+	System.out.println(book.getPriceFormatted());
+	}
+
+}
